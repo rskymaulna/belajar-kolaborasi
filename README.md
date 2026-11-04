@@ -1,5 +1,3 @@
-# belajar-kolaborasi  
-## belajar melakukan squash merge
-- commit pertama.
-- commite ke dua.
-- commit ke tiga.
+# belajar-kolaborasi
+Omagat belajar Github di Dicoding sangat menyenangkan omoo!!!!!(alay njir-_).  
+tambahan dari luke
