@@ -1,5 +1,5 @@
 # belajar-kolaborasi  
 ## belajar melakukan squash merge
-- commit pertama
+- commit pertama.
 - commite ke dua
 - commit ke tiga
